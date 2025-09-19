@@ -69,8 +69,8 @@ docker-compose up --build -d
 
 ## 🌐 URL Akses
 
-- **Laravel App**: http://localhost:8000
-- **phpMyAdmin**: http://localhost:8001
+- **Laravel App**: http://localhost:8031
+- **phpMyAdmin**: http://localhost:8032
 - **MySQL**: localhost:3307
 
 ## 🔑 Kredensial Database
